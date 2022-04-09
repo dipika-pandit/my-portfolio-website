@@ -1,0 +1,54 @@
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.box1{
+    background-color:black;
+    position:relative;
+    flex: 1;
+    min-width: 100px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 5px;
+    transition: 1s;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+}
+.box1:hover{
+    transform: scale(1);
+    background-color: red;
+}
+.header{
+    transition: 1s;
+}
+.header:hover{
+    background-color: red;
+}
+.box1 h3{
+    text-decoration: underline;
+}
+.card-1{
+    background-color:black;
+    position:relative;
+    flex: 1;
+    min-width: 100px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 5px;
+    transition: 1s;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: flex-start;
+    
+    transition: 1s;
+}
+.card-1:hover
