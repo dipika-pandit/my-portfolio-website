@@ -18,79 +18,14 @@ export default function About() {
        <p>Hi there! I am Dipika Panditpawar.
      I am Full stack web developer with React.js,Express.js,Node.js and MongoDB.
       I am always ready to learn new technologies.I always do hard work as well as smart work also.In 2020, I successfully completed my Engineering in the stream of Electronics and Telecommunication Engineering.</p>
+      <a className="btn btn-warning " href ="https://drive.google.com/file/d/1H3dtDArd0RjqEp9RTgrgMBJSfMJo9dN5/view?usp=sharing">My Resume</a>
+     </div>
      </div>
 
+</div>
+ )
+}
 
-     
-
-     </div>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
 
 
 
@@ -141,5 +76,5 @@ export default function About() {
 //  */}
 
   
-  )
-}
+  
+
