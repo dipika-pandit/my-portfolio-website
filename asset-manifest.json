@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dipika-pandit/my-portfolio-website/static/css/main.f49da1f0.css",
+    "main.js": "/dipika-pandit/my-portfolio-website/static/js/main.9d2e5f0f.js",
+    "static/js/787.128fc6e9.chunk.js": "/dipika-pandit/my-portfolio-website/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.svg": "/dipika-pandit/my-portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dipika-pandit/my-portfolio-website/index.html",
+    "main.f49da1f0.css.map": "/dipika-pandit/my-portfolio-website/static/css/main.f49da1f0.css.map",
+    "main.9d2e5f0f.js.map": "/dipika-pandit/my-portfolio-website/static/js/main.9d2e5f0f.js.map",
+    "787.128fc6e9.chunk.js.map": "/dipika-pandit/my-portfolio-website/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49da1f0.css",
+    "static/js/main.9d2e5f0f.js"
+  ]
+}
